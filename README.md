@@ -31,4 +31,4 @@ Same license as Tahoe-LAFS -- [GPL2+][gpl] / [TGPPL][tgppl]
 [tahoe]: https://tahoe-lafs.org/
 [sam]: http://127.0.0.1:7657/configclients
 [gpl]: https://github.com/tahoe-lafs/tahoe-lafs/blob/master/COPYING.GPL
-[tgppl]: https://github.com/tahoe-lafs/tahoe-lafs/blob/master/COPYING.TGPPL.rst)
+[tgppl]: https://github.com/tahoe-lafs/tahoe-lafs/blob/master/COPYING.TGPPL.rst
